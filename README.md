@@ -1,4 +1,4 @@
-# News Summarization & Sentiment Agent (LangGraph)
+# News Summarization & Sentiment Agent
 
 A small, easy-to-read AI agent built with **LangGraph**. It fetches a news
 article (from a URL or pre-provided text), summarizes it with an LLM, runs
